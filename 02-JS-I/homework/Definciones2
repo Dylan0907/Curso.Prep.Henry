@@ -1,0 +1,17 @@
+Variable: Espacio en la memoria de la computadora,que puede ser estatico o cambiante,al que uno le asigna un valor y nombre. Puede contener
+un numero, una palabra, etc.
+
+Strings: Son cadenas de letras, simbolos, numeros, etc. que se hallan incluidos dentro de un par de comillas.
+
+Funciones: Son secciones o partes del programa que sirven para aislar una tarea especifica y realizarla las veces que se necesiten. Requieren
+de la introduccion de valores, que pueden ser numeros, strings, etc., a las que llamamos 'argumentos'; posteriormente, luego de unas operaciones
+predefinidas, pueden llegar a devolver valores mediante la orden 'return', o sino, mostrar algun texto, etc.
+
+Declaracion 'if':  Es un condicional logico, es decir, permite separar las tareas de un programa de acuerdo al cumplimiento de unas condiciones
+predefinidas. Si una condicion se cumple, if devuelve un valor true y continua con las instrucciones, de no ser asi, o puede seguir ejecutando
+otras partes del programa o puede continuar con el condicional con la introduccion de un 'else', que abarca todos los casos que no cumplen con el 'if'.
+En el 'else' se pueden escribir otras condiciones escribiendo nuevamente un 'if' en su interior y asi las veces que uno quiera.
+
+Valores booleanos: Son valores que se utilizan en las operaciones de logica, existen solo 2 valores, true o false ('verdadero' o 'falso
+respectivamente). Su significado se puede asimilar al del 0 y el 1, donde uno representa la ausencia y el otro la presencia, no hay mas
+variables o posibilidades, o fisicamente, como un cable que tiene corriente o no lo tiene. 
