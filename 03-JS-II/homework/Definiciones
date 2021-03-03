@@ -1,0 +1,5 @@
+For: Es utilizado para iterar, o sea, repetir, una declaracion un numero finito de veces. Va acompañado de un iterador, un numero que indica
+la cantidad de veces que el proceso se repite, éste esta sujeto a una condición que cuando no se cumple mas, se termina el loop.
+
+Operadores logicos: Estos se utilizan para realizar operaciones entre los valores booleanos(false y true). Son && (conjuncion), || (disyuncion),
+y ! (negacion). Las operaciones logicas que generan sirven para determinar como se va a comportar un programa.
