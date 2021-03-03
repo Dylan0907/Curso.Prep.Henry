@@ -1,0 +1,2 @@
+Array: Son un tipo de dato que te permite guardar muchos valores en una sola variable. Son listas con un orden, cada elemento tiene una posicion,
+Todos las variables del array se incluyen entre dos corchetes "[]" y se separan por una coma.
