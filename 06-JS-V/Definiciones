@@ -1,0 +1,5 @@
+prototype: Son funciones que se utilizan y asocian a una clase para que cada vez que uno cree un objeto de esa clase, no tenga que estar
+definiendo un metodo para cada uno de ellos. Todos tendran acceso a ese metodo y solo se tendra que establecer por una unica vez. Ahorra memoria.
+
+Constructors: Son un tipo de funciones que crean objetos del mismo tipo, es decir, comparten los mismos metodos o key-words en sus propiedades,
+juntos estan definidos en los que se llama una "clase", es como si pertenecieran a la misma especie.
