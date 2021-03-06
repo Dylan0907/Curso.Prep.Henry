@@ -1,0 +1,14 @@
+Objetos: Son un tipo de dato que a su vez contiene otros, similar a un array, la diferencia reside en que en los objetos no hay un orden, tambien
+cada "valor" va asociado a una palabra clave que se llama "propiedad". Las propiedades pueden contener valores, como strings o numeros,
+o sino funciones, que se denominan "metodos".
+
+Propiedades: Son elementos de los objetos, son el par de una palabra clave (como un key) y un valor. Se representan separando la "key"
+con el valor por ":". (Ej.: color = "azul",)
+
+Metodos: Son funciones dentro de un objeto almacenadas como propiedades. Son de la forma: 'propiedad: function () {code}'
+
+for...in: Es una declaracion que permite interar sobre todos los elementos de un objeto. Como este no posee elementos con posicion,
+se usa su palabra clave.
+
+Notacion punto o corchetes: son dos formas de llamar al elemento de un objeto. El metodo con corchetes es utilizado generalmente asociado a
+variables, su notacion es objeto["propiedad"] en cambio, el de punto es: objeto.propiedad.
